@@ -1,3 +1,8 @@
 Hello World - from java
+<<<<<<< Updated upstream
 Hello World -from PHP
 Hello World - from C
+=======
+Hello World -from C++
+Hello World - from Javascript
+>>>>>>> Stashed changes
