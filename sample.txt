@@ -8,3 +8,4 @@ Hello World - from Javascript
 >>>>>>> Stashed changes
 
 Adding directly without stashing
+Adding one more line
