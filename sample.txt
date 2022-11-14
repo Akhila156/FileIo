@@ -1,12 +1,4 @@
 Hello World - from java
 Hello World -from PHP
 Hello World - from C
-
-
-
-
-
-
-
-
 Adding some content from custom_branch
