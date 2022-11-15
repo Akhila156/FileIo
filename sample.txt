@@ -14,4 +14,9 @@ Adding directly without stashing
 Adding one more line
 
 Adding content to the main branch
+<<<<<<< HEAD
+
+Hi Akhila
+=======
 >>>>>>> f5e997a0acccf80d801cdf43a7f1a2f1566f1cd3
+>>>>>>> d569c488e9828f5e043875a7a7e840d729009ce0
