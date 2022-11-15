@@ -2,6 +2,9 @@ Hello World - from java
 <<<<<<< Updated upstream
 Hello World -from PHP
 Hello World - from C
+<<<<<<< HEAD
+Adding some content from custom_branch
+=======
 =======
 Hello World -from C++
 Hello World - from Javascript
@@ -9,3 +12,6 @@ Hello World - from Javascript
 
 Adding directly without stashing
 Adding one more line
+
+Adding content to the main branch
+>>>>>>> f5e997a0acccf80d801cdf43a7f1a2f1566f1cd3
